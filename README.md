@@ -14,7 +14,7 @@ KEY FEATURES
 HOW TO USE
 
 #Clone this repository
-$ git clone https://github.com/Rstar-910/Connect4Change.git
+$ git clone https://github.com/Rstar-910/Problem-9-Connecting-NGOs-Volunteers-and-Government-bodies-Web-Dev-.git
 
 #Go into the repository
 $ cd Connect4Change
