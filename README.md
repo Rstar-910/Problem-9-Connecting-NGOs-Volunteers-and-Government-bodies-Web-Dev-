@@ -39,12 +39,12 @@ CONNECT4CHANGE serves as a **centralized hub** for communication, coordination, 
 - **JWT-based authentication** for secure login for volunteers, NGOs, and government organizations.  
 - Secure handling of user data to **ensure privacy and protection**.  
 
-### 📢 **Project & Event Management**  
+### 📢 **Project & Event Management**  (Work in progress)
 - NGOs can post projects and **assign roles to volunteers**.  
 - Volunteers can **apply for roles** based on their expertise and availability.  
 - Real-time notifications to keep **users updated** on tasks and deadlines.  
 
-### 🔗 **Collaboration & Communication**  
+### 🔗 **Collaboration & Communication**  (Work in progress)
 - **In-app messaging system** to enable smooth collaboration between volunteers and organizations.  
 - **Forums and discussion boards** for knowledge sharing and brainstorming.  
 
