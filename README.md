@@ -1,4 +1,4 @@
-CONNECT4CHANGE-
+CONNECT4CHANGE
 Web Platform for crowdsourced Social Good Projects
 
 USECASE
