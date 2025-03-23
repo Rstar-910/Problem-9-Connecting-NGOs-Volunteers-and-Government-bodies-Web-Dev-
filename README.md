@@ -58,7 +58,7 @@ Follow these steps to clone, set up, and run the **CONNECT4CHANGE** platform on 
 Run the following command in your terminal to clone the repository:  
 ```bash
 git clone https://github.com/Rstar-910/Problem-9-Connecting-NGOs-Volunteers-and-Government-bodies-Web-Dev-.git
-
+```
 
 ### 2️⃣ Navigate to the repository
 ```bash
