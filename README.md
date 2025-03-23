@@ -1,4 +1,5 @@
-# CONNECT4CHANGE Web Platform for Crowdsourced Social Good Projects
+# CONNECT4CHANGE 
+Web Platform for Crowdsourced Social Good Projects
 
 ## Use Case  
 A digital platform that bridges the gap between volunteers, NGOs, and government organizations to collaboratively solve local issues such as poverty, education, healthcare, environmental conservation, and disaster relief. This platform serves as a centralized hub for communication, resource allocation, and project management, ensuring efficient and impactful community-driven initiatives.
